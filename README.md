@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a aspiring web developer with keen interest in learning new things and problem solving <br>
+I'm a aspiring web developer and active open source contributor with keen interest in learning new things and problem solving <br>
 
 
 # 💻 Tech Stack:
