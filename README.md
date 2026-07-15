@@ -14,6 +14,8 @@ I'm an aspiring full stack developer <br>Interested in competitve coding <br>Pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushnotafk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![snake gif](https://github.com/Ayushnotafk/Ayushnotafk/blob/output/github-snake-dark.svg)
+
 </div>
 
 <!--[![](https://komarev.com/ghpvc/?username=Ayushnotafk&icon=0&color=0)](https://visitcount.itsvg.in)
